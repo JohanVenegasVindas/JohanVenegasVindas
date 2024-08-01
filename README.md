@@ -25,4 +25,10 @@ Aca encontraras diferentes proyectos Realizados por mi persona durante mi desarr
 </div>
 
 <h3>Lenguas Que Quiero Aprender Luego</h3>
-<p>C#--Python--Otros</p>
+
+<div>
+ <p>C#--Python--Otros</p>
+  <img src="https://cdn.iconscout.com/icon/free/png-512/free-csharp-logo-icon-download-in-svg-png-gif-file-formats--programming-langugae-language-pack-logos-icons-1175240.png" alt="Logo C++" width=100>
+</div>
+
+
