@@ -9,7 +9,7 @@ Aca encontraras diferentes proyectos Realizados por mi persona durante mi desarr
 <p>Actualmente Estoy Aprendiendo el uso de:</p>
  
 <div>
- <p>C++</p>
+ <p>C++      Java</p>
  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="Logo C++" width=100>
 
  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" alt="Logo del Proyecto" width="100">
