@@ -9,9 +9,11 @@ Aca encontraras diferentes proyectos Realizados por mi persona durante mi desarr
 <p>Actualmente Estoy Aprendiendo el uso de:</p>
 
 C++.
-<img src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" alt="Logo del Proyecto" width="300">
-![Java](https://cdn-icons-png.flaticon.com/512/5968/5968282.png)
- 
+<div>
+ <p>Java</p>
+ <img src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" alt="Logo del Proyecto" width="300">
+</div>
+
 JavaScrip.
 HTML5.
 CSS3.
