@@ -21,7 +21,7 @@ Aca encontraras diferentes proyectos Realizados por mi persona durante mi desarr
 
  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="Logo CSS3" width="100">
 
- <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/Spring_Boot.svg" alt="Logo SpringBoot" width="200">
+ <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/Spring_Boot.svg" alt="Logo SpringBoot" width="100">
 </div>
 
 <h3>Lenguas Que Quiero Aprender Luego</h3>
@@ -29,7 +29,7 @@ Aca encontraras diferentes proyectos Realizados por mi persona durante mi desarr
 <div>
  <p>C#--Python--Otros</p>
  <img src="https://cdn.iconscout.com/icon/free/png-512/free-csharp-logo-icon-download-in-svg-png-gif-file-formats--programming-langugae-language-pack-logos-icons-1175240.png" alt="Logo C#" width=100>
- <img src="https://logos-world.net/wp-content/uploads/2021/10/Python-Emblem.png" alt="Logo Python" width=100>
+ <img src="https://logos-world.net/wp-content/uploads/2021/10/Python-Emblem.png" alt="Logo Python" width=150>
 </div>
 
 
