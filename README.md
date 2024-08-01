@@ -21,7 +21,7 @@ Aca encontraras diferentes proyectos Realizados por mi persona durante mi desarr
 
  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="Logo CSS3" width="100">
 
- <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/Spring_Boot.svg" alt="Logo SpringBoot" width="100">
+ <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/Spring_Boot.svg" alt="Logo SpringBoot" width="200">
 </div>
 
 <h3>Lenguas Que Quiero Aprender Luego</h3>
