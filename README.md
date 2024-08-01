@@ -10,7 +10,7 @@ Aca encontraras diferentes proyectos Realizados por mi persona durante mi desarr
 
 C++.
 
-![Java](https://example.com/imagen.png](https://cdn-icons-png.flaticon.com/512/5968/5968282.png))
+![Java](https://example.com/imagen.png](https://cdn-icons-png.flaticon.com/512/5968/5968282.png)
  
 JavaScrip.
 HTML5.
