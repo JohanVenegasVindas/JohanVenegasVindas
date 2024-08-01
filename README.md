@@ -9,7 +9,7 @@ Aca encontraras diferentes proyectos Realizados por mi persona durante mi desarr
 <p>Actualmente Estoy Aprendiendo el uso de:</p>
 
 C++.
-Java.
+Java. https://cdn-icons-png.flaticon.com/512/5968/5968282.png
 JavaScrip.
 HTML5.
 CSS3.
