@@ -28,7 +28,8 @@ Aca encontraras diferentes proyectos Realizados por mi persona durante mi desarr
 
 <div>
  <p>C#--Python--Otros</p>
-  <img src="https://cdn.iconscout.com/icon/free/png-512/free-csharp-logo-icon-download-in-svg-png-gif-file-formats--programming-langugae-language-pack-logos-icons-1175240.png" alt="Logo C++" width=100>
+ <img src="https://cdn.iconscout.com/icon/free/png-512/free-csharp-logo-icon-download-in-svg-png-gif-file-formats--programming-langugae-language-pack-logos-icons-1175240.png" alt="Logo C#" width=100>
+ <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Logo Python" width=100>
 </div>
 
 
