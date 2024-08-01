@@ -20,7 +20,7 @@ Aca encontraras diferentes proyectos Realizados por mi persona durante mi desarr
 
 <div>
  <p>JavaScrip</p>
- <img src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" alt="Logo del Proyecto" width="100">
+ <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="Logo del Proyecto" width="100">
 </div>
 HTML5.
 CSS3.
