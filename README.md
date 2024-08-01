@@ -8,7 +8,9 @@ Aca encontraras diferentes proyectos Realizados por mi persona durante mi desarr
 <h2>Lenguajes de Programacion</h2>
 <p>Actualmente Estoy Aprendiendo el uso de:</p>
 
-<div>
+
+
+<div style="flex: 1; border: 1px solid #ccc; padding: 10px;">
  <p>C++</p>
  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="Logo C++" width=100>
 </div>
