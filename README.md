@@ -1,5 +1,5 @@
 <h1>Sobre Mi</h1>
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Foceanexpert.org%2Finstitution%2F18205&psig=AOvVaw3ZPRMnIsdIgiDrL0F0J_rg&ust=1722565554351000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCMjoj_7e0ocDFQAAAAAdAAAAABAE" alt="Logo C++" width=100>
+<img src="https://www.relacionespublicas.una.ac.cr/images/servicios/Logo-UNA-Rojo_FondoTransparente.png" alt="Logo UNA" width=100>
 
 Soy un Estudiante de la Universidad Nacional de Costa Rica. 
 En estos momentos estoy cursando la Carrera de Ingenieria en Sistemas de Informacion.
