@@ -18,7 +18,10 @@ Aca encontraras diferentes proyectos Realizados por mi persona durante mi desarr
  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" alt="Logo del Proyecto" width="100">
 </div>
 
-JavaScrip.
+<div>
+ <p>JavaScrip</p>
+ <img src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" alt="Logo del Proyecto" width="100">
+</div>
 HTML5.
 CSS3.
 SpringBoot.
