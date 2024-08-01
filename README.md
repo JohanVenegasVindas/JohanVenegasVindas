@@ -1,6 +1,7 @@
 <h1>Sobre Mi</h1>
 
-Soy un Estudiante de la Universidad Nacional de Costa Rica.
+Soy un Estudiante de la Universidad Nacional de Costa Rica. 
+<img src="https://img.youtube.com/vi/ku7t9gezlpg/maxresdefault.jpg" alt="Logo C++" width=100>
 En estos momentos estoy cursando la Carrera de Ingenieria en Sistemas de Informacion.
 
 Aca encontraras diferentes proyectos Realizados por mi persona durante mi desarrollo.
