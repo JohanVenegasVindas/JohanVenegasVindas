@@ -23,3 +23,6 @@ Aca encontraras diferentes proyectos Realizados por mi persona durante mi desarr
 
  <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/Spring_Boot.svg" alt="Logo SpringBoot" width="100">
 </div>
+
+<h3>Lenguas Que Quiero Aprender Luego</h3>
+<p>C#--Python--Otros</p>
