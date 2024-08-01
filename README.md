@@ -9,27 +9,16 @@ Aca encontraras diferentes proyectos Realizados por mi persona durante mi desarr
 <p>Actualmente Estoy Aprendiendo el uso de:</p>
  
 <div>
- <p>C++      Java</p>
+ <p>C++--Java--JavaScrip--HTML5--CSS3--SpringBoot</p>
  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="Logo C++" width=100>
 
- <img src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" alt="Logo del Proyecto" width="100">
-</div>
+ <img src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" alt="Logo Java" width="100">
 
-<div>
- <p>JavaScrip</p>
- <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="Logo del Proyecto" width="100">
-</div>
-<div>
- <p>HTML5</p>
- <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="Logo del Proyecto" width="100">
-</div>
+ <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="Logo JavaSpring" width="100">
 
-<div>
- <p>CSS3</p>
- <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="Logo del Proyecto" width="100">
-</div>
+ <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="Logo HTML5" width="100">
 
-<div>
- <p>SpringBoot</p>
- <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/Spring_Boot.svg" alt="Logo del Proyecto" width="100">
+ <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="Logo CSS3" width="100">
+
+ <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/Spring_Boot.svg" alt="Logo SpringBoot" width="100">
 </div>
