@@ -15,7 +15,7 @@ Aca encontraras diferentes proyectos Realizados por mi persona durante mi desarr
  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="Logo C++" width=100>
 </div>
  
-<div>
+<div style="flex: 1; border: 1px solid #ccc; padding: 10px;">
  <p>Java</p>
  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" alt="Logo del Proyecto" width="100">
 </div>
