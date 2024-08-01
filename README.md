@@ -22,7 +22,10 @@ Aca encontraras diferentes proyectos Realizados por mi persona durante mi desarr
  <p>JavaScrip</p>
  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="Logo del Proyecto" width="100">
 </div>
-HTML5.
+<div>
+ <p>HTML5</p>
+ <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="Logo del Proyecto" width="100">
+</div>
 CSS3.
 SpringBoot.
 MySQl
