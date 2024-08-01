@@ -9,8 +9,9 @@ Aca encontraras diferentes proyectos Realizados por mi persona durante mi desarr
 <p>Actualmente Estoy Aprendiendo el uso de:</p>
 
 
-
 <div style="display: flex; gap: 10px;">
+ 
+<div>
  <p>C++</p>
  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="Logo C++" width=100>
 </div>
@@ -27,6 +28,7 @@ Aca encontraras diferentes proyectos Realizados por mi persona durante mi desarr
 <div>
  <p>HTML5</p>
  <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="Logo del Proyecto" width="100">
+</div>
 </div>
 CSS3.
 SpringBoot.
